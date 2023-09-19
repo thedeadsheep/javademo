@@ -1,0 +1,5 @@
+com\example\demomoingay\payload\ActorBodyRequest.class
+com\example\demomoingay\helloWorld\helloworld.class
+com\example\demomoingay\DemoMoiNgayApplication.class
+com\example\demomoingay\dbConnector\mySQLConnection.class
+com\example\demomoingay\models\Actor.class
